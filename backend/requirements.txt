@@ -1,0 +1,17 @@
+aniso8601
+attrs
+blinker
+clickS
+Flask
+flask-restx
+flask-swagger-ui
+importlib_resources
+itsdangerous
+Jinja2
+jsonschema
+jsonschema-specifications
+MarkupSafe
+pytz
+referencing
+rpds-py
+Werkzeug
