@@ -53,7 +53,7 @@
 ├── .gitignore               # Archivos y carpetas a ignorar por Git
 └── docker-compose.yml       # Configuración para Docker Compose (opcional)
 ```
-Para ejecutar el backend debes de estar en la raís de `backend` y ejecutar el siguiente programa: 
+Para ejecutar el backend debes de estar en la raíz de `backend` y ejecutar el siguiente programa: 
 ```
 python -m app.app
 ```
