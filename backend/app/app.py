@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_swagger_ui import get_swaggerui_blueprint
-from .routes import register_routes
+from .routers.routes import register_routes
 
 SWAGGER_URL = "/swagger"
 API_URL = "/static/swagger.json"
@@ -21,3 +21,4 @@ register_routes(app)
 
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=8080)
+    
