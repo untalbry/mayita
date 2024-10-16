@@ -1,6 +1,6 @@
 import csv
 from flask import jsonify, request
-from .models.user_model import User
+from ..models.user_model import User
 import os
 
 def register_routes(app):
