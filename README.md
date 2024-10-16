@@ -55,5 +55,5 @@
 ```
 Para ejecutar el backend debes de estar en la raíz de `backend` y ejecutar el siguiente programa: 
 ```
-python -m app.app
+python -m app.main
 ```
