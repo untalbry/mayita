@@ -21,3 +21,5 @@ referencing==0.35.1
 rich==11.2.0
 rpds-py==0.20.0
 Werkzeug==3.0.4
+langchain-google-vertexai
+langchain
