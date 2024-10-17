@@ -15,7 +15,7 @@
 │   ├── package.json         # Dependencias de frontend
 │   └── .env                 # Variables de entorno
 │
-├── /backend/                # API Backend (FastAPI o Flask)
+├── /backend/                # API Backend (Flask)
 │   ├── /app/
 │   │   ├── /routers/        # Rutas de la API
 │   │   ├── /models/         # Definiciones de los esquemas de datos
